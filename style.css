@@ -340,3 +340,31 @@ gap: 1rem;
 article .icon {
     cursor: default;
 }
+
+/* PROJECTS */
+
+#projects {
+    position: relative;
+}
+
+.color-container {
+    border-color: #a3a3a3;
+    background: white;
+}
+
+.project-img {
+    border-radius: 2rem;
+    width: 90%;
+    height: 90%;
+}
+
+.project-title {
+    margin: 1rem;
+    color: black;
+}
+
+.project-btn {
+    color: black;
+    border-color: #a3a3a3;
+}
+
